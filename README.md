@@ -7,6 +7,12 @@ E precisamos falar também dos 4 Pilares da **POO**.
 - Encapsulamento;
 - Herança; e
 - Poliformismo.
+
+## Abstração
+O conceito de abstração consiste em esconder os detalhes de algo, no caso, os detalhes desnecessários.
+No mundo real, utilizamos abstrações o tempo todo. Tudo que não sabemos como funciona por baixo dos panos pode ser considerado uma abstração.
+Para exemplificar melhor, vamos tomar como exemplo a concessionária que realiza manutenções no seu carro. Você leva ele até lá com um problema e ele volta funcionando.
+Em suma, pouco importa os detalhes do que aconteceu durante a manutenção do seu carro, o que importa é que ele voltou funcionando.
   
 >A **POO** surgiu como uma alternativa de aproximar o manuseio das estruturas de um programa ao manuseio das coisas do mundo real, daí o nome "objeto" como algo genérico, que pode representar qualquer coisa tangível. Esse novo paradigma se baseia principalmente em dois conceitos chave: *classes e objetos*. Todos os outros conceitos, igualmente importantes, são construídos em cima desses dois.
 

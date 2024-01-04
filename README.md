@@ -8,8 +8,7 @@ E precisamos falar também dos 4 Pilares da **POO**.
 - Herança; e
 - Poliformismo.
   
->A **POO** surgiu como uma alternativa de aproximar o manuseio das estruturas de um programa ao manuseio das coisas do mundo real, daí o nome "objeto" como uma algo genérico, que pode representar qualquer coisa tangível.
-Esse novo paradigma se baseia principalmente em dois conceitos chave: classes e objetos. Todos os outros conceitos, igualmente importantes, são construídos em cima desses dois.
+>A **POO** surgiu como uma alternativa de aproximar o manuseio das estruturas de um programa ao manuseio das coisas do mundo real, daí o nome "objeto" como algo genérico, que pode representar qualquer coisa tangível. Esse novo paradigma se baseia principalmente em dois conceitos chave: *classes e objetos*. Todos os outros conceitos, igualmente importantes, são construídos em cima desses dois.
 
 ### Referência
 Aqui temos uma ótima matéria sobre **POO**, que explica muito bem em detalhes alguns dos pilares. 

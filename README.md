@@ -7,3 +7,7 @@ E precisamos falar dos 4 Pilares da **POO**.
 - Encapsulamento;
 - Herança; e
 - Poliformismo. 
+
+
+Ótima matéria sobre POO. Leia mais
+https://www.alura.com.br/artigos/poo-programacao-orientada-a-objetos

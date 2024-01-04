@@ -35,8 +35,8 @@ Vamos dizer que um dos motivos de você ter comprado um carro foi a qualidade do
 
 ### Referência
 Aqui temos duas matérias sobre **POO**, que explica muito bem em detalhes alguns dos pilares. 
-[Recomendo a leituraa da matéria da **Alura**](https://www.alura.com.br/artigos/poo-programacao-orientada-a-objetos)
-[Site do Balta.io](https://balta.io/blog/orientacao-a-objetos-abstracao)
+- [Recomendo a leituraa da matéria da **Alura**](https://www.alura.com.br/artigos/poo-programacao-orientada-a-objetos)
+- [Site do Balta.io](https://balta.io/blog/orientacao-a-objetos-abstracao)
 
 
 

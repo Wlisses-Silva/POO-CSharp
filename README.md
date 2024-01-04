@@ -30,8 +30,10 @@ Quando dizemos que uma classe A é um tipo de classe B, dizemos que a classe A h
 
 ## Poliformismo
 Vamos dizer que um dos motivos de você ter comprado um carro foi a qualidade do sistema de som dele. Mas, no seu caso, digamos que a reprodução só pode ser feita via rádio ou bluetooth, enquanto que no seu antigo carro, podia ser feita apenas via cartão SD e pendrive. Em ambos os carros está presente o método "tocar música" mas, como o sistema de som deles é diferente, a forma como o carro toca as músicas é diferente. Dizemos que o método "tocar música" é uma forma de *polimorfismo*, pois dois objetos, de duas classes diferentes, têm um mesmo método que é implementado de formas diferentes, ou seja, um método possui várias formas, várias implementações diferentes em classes diferentes, mas que possuem o mesmo efeito ("polimorfismo" vem do grego poli = muitas, morphos = forma).
-  
+
+
 >A **POO** surgiu como uma alternativa de aproximar o manuseio das estruturas de um programa ao manuseio das coisas do mundo real, daí o nome "objeto" como algo genérico, que pode representar qualquer coisa tangível. Esse novo paradigma se baseia principalmente em dois conceitos chave: *classes e objetos*. Todos os outros conceitos, igualmente importantes, são construídos em cima desses dois.
+
 
 ### Referência
 Aqui temos duas matérias sobre **POO**, que explica muito bem em detalhes alguns dos pilares. 
